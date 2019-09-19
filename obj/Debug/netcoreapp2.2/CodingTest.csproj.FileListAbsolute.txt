@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\bin\Debug\netcoreapp2.2\CodingTest.deps.json
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\bin\Debug\netcoreapp2.2\CodingTest.runtimeconfig.json
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\bin\Debug\netcoreapp2.2\CodingTest.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\bin\Debug\netcoreapp2.2\CodingTest.dll
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\bin\Debug\netcoreapp2.2\CodingTest.pdb
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.dll
+C:\Users\Administrator\Desktop\VS2019Projects\CodingTest\CodingTest\obj\Debug\netcoreapp2.2\CodingTest.pdb
